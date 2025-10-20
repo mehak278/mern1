@@ -1,0 +1,14 @@
+.landing-container { text-align:center; margin-top:80px }
+.landing-container h1 { color:#1976d2 }
+.landing-container p { color:#444 }
+
+.logout-btn {
+	margin-top: 20px;
+	padding: 8px 14px;
+	background: #e53935;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.logout-btn:hover { background:#cc2f2f }
